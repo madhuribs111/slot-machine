@@ -51,6 +51,8 @@ A JavaScript-based slot machine simulation that lets players deposit money, plac
 3. **Run the Game**:
     node project.js
 
+## View output on my LinkedIn post: https://www.linkedin.com/posts/madhuribs_i-fractured-my-foot-2-days-ago-this-was-activity-7243571067150082048-bJju?utm_source=share&utm_medium=member_desktop
+
 ## Future Enhancements
 
 - Add sound effects for spinning and winning.
